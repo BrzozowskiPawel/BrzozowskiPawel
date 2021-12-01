@@ -11,7 +11,7 @@ I know English and also I understand some basics of German. Besides that Polish 
 There is nothing that I am afraid to learn, I am willing to work on my skill all the time and I don't need a lot of time to adopt new technology. </br>
 
 Let's be in touch:
-<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
 
