@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 # My name is Paweł Brzozowski and I am a junior Swift/IOS developer. </br> <br>
-Currently, I am a student at the Poznań University of Technology, where I am learning all the things about robots and automation of processes and to be specific I am writing now my engineering thesis. </br>
+I am a student at the Poznań University of Technology, where I am learning all the things about robots and automation of processes. </br> 
+To be specific I am writing now my engineering thesis. </br>
 I am extremely interested in new technologies, mobile development, machine learning, artificial intelligence, data science, and technology at it's finest. </br>
-Most of the time I am learning to code some kind of mobile app in Swift or develop Python programs related to AI/ML/DS stuff.
+Most of the time I am learning to code some kind of mobile app in Swift or develop Python programs related to AI/ML/DS stuff. </br>
 Naturally then Swift and Python are my main programming languages however I know also a bit of Dart/Flutter, C++, and SQL. </br> </br>
 
 I am definitely a team player who loves to talk with complete strangers about interesting topics. </br>
