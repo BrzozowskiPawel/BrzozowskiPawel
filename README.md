@@ -11,8 +11,9 @@ I know English and also I understand some basics of German. Besides that Polish 
 There is nothing that I am afraid to learn, I am willing to work on my skill all the time and I don't need a lot of time to adopt new technology. </br>
 
 # Let's be in touch: </br>
-<a href=https://www.linkedin.com/in/pawe%C5%82-brzozowski-7bb636219/ > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="mailto:pawelbrzozowskigplus@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href=https://www.linkedin.com/in/pawe%C5%82-brzozowski-7bb636219/ > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
 
 # Main programming languages: </br>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
