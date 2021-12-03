@@ -28,5 +28,3 @@ There is nothing that I am afraid to learn, I am willing to work on my skill all
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrzozowskiPawel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
