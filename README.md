@@ -5,9 +5,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:pawelbrzozowskigplus@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<h3 align="left">Also with linkedin:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/paweł-brzozowski-7bb636219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paweł-brzozowski-7bb636219" height="30" width="40" /></a>
 </p>
-rahuldkjain/github-profile-readme-generator/master/src/images/icons
 
 
 <h3 align="left">Languages and Tools:</h3>
