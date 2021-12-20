@@ -3,8 +3,7 @@
 
 <h3 align="left">More about me:</h3>
 <p align="left">
-I am a student at the Poznań University of Technology, where I am learning all the things about robots and automation of processes. </br>
-To be specific I am writing now my engineering thesis. 
+I am a student at inspired junior Swift developer and a student at the Poznań University of Technology, where I am learning all the things about robots and automation of processes. </br>
 My interests include, among others are: technology, mobile development, machine learning, artificial intelligence, data science, and technology at it's finest. </br> 
 Most of the time I am learning to code some kind of mobile app in Swift. Sometimes I am developin Python programs related to AI/ML/DS stuff for school projects. </br>  Naturally then Swift and a Python are my main programming languages however I know also a bit of Dart/Flutter, C++, and SQL. </br>
 I am definitely a team player who loves to talk with complete strangers about interesting topics. </br>
