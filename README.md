@@ -33,4 +33,5 @@ There is nothing that I am afraid to learn, I am willing to work on my skill all
 </p> </br>
 
 
-[My CV 📎](https://github.com/BrzozowskiPawel/BrzozowskiPawel/blob/master/CV_Swift.pdf)
+[My CV 📎](https://github.com/BrzozowskiPawel/BrzozowskiPawel/blob/master/CV_Swift.pdf) </br>
+![Visitor Count](https://profile-counter.glitch.me/{BrzozowskiPawel}/count.svg)
