@@ -34,6 +34,3 @@ There is nothing that I am afraid to learn, I am willing to work on my skill all
 
 
 [My CV 📎](https://github.com/BrzozowskiPawel/BrzozowskiPawel/blob/master/CV_Swift.pdf)
-
-</p> </br>
-<h3 align="left">At the moment I am working on:</h3> Drawning App for IOS 🎨
