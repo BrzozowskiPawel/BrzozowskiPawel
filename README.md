@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Paweł Brzozowski</h1>
 <h3 align="center">A passionate junior Swift developer 💻.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brzozowskipawel&label=Profile%20views&color=0e75b6&style=flat" alt="brzozowskipawel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brzozowskipawel" alt="brzozowskipawel" /></a> </p>
-
-- 🔭 I’m currently working on [expanding my knowledge of Swift.](https://github.com/BrzozowskiPawel/SwiftProgramming)
-
-- 👯 I’m looking to collaborate **to**
+## 🚀 About Me
+I am junior swift developer and 4 th year automation controll and robotics stduent at Poznań Univeristy of technology. </br>
+I really enjoy creating mobile apps, learn about technology and AI/ML related stuff. </br>
+My main goal is to be a better prorammer everyday. To achive that I try to learn new things daily and never stop to thing how something works. </br>
+Team work is what realy keep me going but I am also not afraid of any invidual tasks. </br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paweł-brzozowski-7bb636219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paweł-brzozowski-7bb636219" height="30" width="40" /></a>
+
+<address href="mailto:pawelbrzozowskigplus@gmail.com">
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="paweł-brzozowski-7bb636219" height="30" width="40" /> </address>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
