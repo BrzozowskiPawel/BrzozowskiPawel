@@ -3,10 +3,11 @@
 
 
 ## 🚀 About Me
-I am a junior swift developer and 4th-year automation control and robotics student at Poznań University of technology. </br>
-I really enjoy creating mobile apps, learning about technology and exploring AI/ML related stuff. </br>
-My main goal is to be a better programmer every day. To achieve that I try to learn new things daily and never stop to think about how something works. </br>
-Teamwork is what really keep me going but I am also not afraid of any individual tasks. </br> 
+My name is Paweł Brzozowski and I am a junior Swift developer who is passionate about mobile app development. </br>
+Besides of creating mobile apps I am also a fan of learning about technology, UI/UX design and exploring AI/ML related stuff. </br>
+When it comes to the learning, I am currently finishing my engineering degree at Poznan University of Technology (automation control and robotics). </br>
+I love to expand my knowledge on Swift development and meet people with whom I could share my passion. </br>
+I can say that I am a team player who loves interacting with other dev or team members, but of course, I am not afraid of any individual tasks. </br>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/paweł-brzozowski-7bb636219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paweł-brzozowski-7bb636219" height="30" width="40" /></a>
