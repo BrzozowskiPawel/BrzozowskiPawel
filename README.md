@@ -7,8 +7,9 @@ My name is Paweł Brzozowski and I am a junior Swift developer who is passionate
 Besides of creating mobile apps I am also a fan of learning about technology, UI/UX design and exploring AI/ML related stuff. </br>
 When it comes to the learning, I am currently finishing my engineering degree at Poznan University of Technology (automation control and robotics). </br>
 I love to expand my knowledge on Swift development and meet people with whom I could share my passion. </br>
-I can say that I am a team player who loves interacting with other dev or team members, but of course, I am not afraid of any individual tasks. </br>
+I can say that I am a team player who loves interacting with other dev or team members, but of course, I am not afraid of any individual tasks. </br> </br>
 
+I am using both UIkit and SwiftUI. </br>
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/paweł-brzozowski-7bb636219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paweł-brzozowski-7bb636219" height="30" width="40" /></a>
 </br></br>
