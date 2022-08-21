@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-My name is Paweł Brzozowski and I am a junior Swift developer who is passionate about mobile app development. </br>
+My name is Paweł Brzozowski and I am a Swift developer who is passionate about mobile app development. </br>
 Besides of creating mobile apps I am also a fan of learning about technology, UI/UX design and exploring AI/ML related stuff. </br>
 When it comes to learning, I am currently I am an engineer (robotics, PUT Poland)  and at the moment I am getting a master of engineering title also at Poznan University of Technology. </br>
 I love to expand my knowledge on Swift development and meet people with whom I could share my passion. </br>
