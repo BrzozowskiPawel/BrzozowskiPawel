@@ -47,8 +47,7 @@ I can say that I am a team player who loves interacting with other dev or team m
 <p align="left"> 
  
 <img src="https://user-images.githubusercontent.com/50630878/188272371-7c3f3515-773b-4b72-9949-aa32294be24a.jpg" alt="letitswift" width="100" height="100"/> 
-
-</p.
+</p>
 
 <b>My GitHub Stats</b>
 
