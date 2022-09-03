@@ -43,12 +43,12 @@ I can say that I am a team player who loves interacting with other dev or team m
 </p>
 </br> 
 
-<h3 align="left">SWIFT meetups and  conferences:</h3>
+<h3 align="left">🍎 SWIFT meetups and  conferences:</h3>
 <p align="left"> 
 <img src="https://user-images.githubusercontent.com/50630878/188272371-7c3f3515-773b-4b72-9949-aa32294be24a.jpg" alt="letitswift" width="100" height="100"/> 
 </p>
 
-<h3 align="left">🔗 My GitHub Stats: </h3>
+<h3 align="left">⭐️ My GitHub Stats: </h3>
 <p align="left"> 
 <a href="http://www.github.com/BrzozowskiPawel"><img src="https://github-readme-stats.vercel.app/api?username=BrzozowskiPawel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="BrzozowskiPawel's GitHub stats" /></a>
 
