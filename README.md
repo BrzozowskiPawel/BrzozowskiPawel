@@ -37,9 +37,19 @@ I can say that I am a team player who loves interacting with other dev or team m
  
 </p>
 
-## 🔗 Links:
+<h3 align="left">🔗 Links:</h3>
+<p align="left"> 
 [Dowload my CV](https://github.com/BrzozowskiPawel/BrzozowskiPawel/blob/master/CV_Swift.pdf)
-</br> </br>
+</p>
+</br> 
+
+<h3 align="left">SWIFT meetups and  conferences:</h3>
+<p align="left"> 
+![let it Swift AppUnite Social media 1080x1080@2x-1](https://user-images.githubusercontent.com/50630878/188272371-7c3f3515-773b-4b72-9949-aa32294be24a.jpg)
+
+<img src="https://user-images.githubusercontent.com/50630878/188272371-7c3f3515-773b-4b72-9949-aa32294be24a.jpg" alt="letitswift" width="50" height="50"/> 
+
+</p.
 
 <b>My GitHub Stats</b>
 
