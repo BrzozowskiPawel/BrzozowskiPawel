@@ -40,7 +40,7 @@ I can say that I am a team player who loves interacting with other dev or team m
 <h3 align="left">🔗 Links:</h3>
 <p align="left"> 
 [Dowload my CV](https://github.com/BrzozowskiPawel/BrzozowskiPawel/blob/master/CV_Swift.pdf)
- [An Internal Link](/blob/master/CV_Swift.pdf)
+ [An Internal Link](/CV_Swift.pdf)
 </p>
 </br> 
 
