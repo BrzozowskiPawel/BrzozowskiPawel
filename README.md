@@ -46,7 +46,12 @@ I can say that I am a team player who loves interacting with other dev or team m
 <h3 align="left">🍎 SWIFT meetups and  conferences:</h3>
 <p align="left"> 
 <img src="https://user-images.githubusercontent.com/50630878/188272371-7c3f3515-773b-4b72-9949-aa32294be24a.jpg" alt="letitswift" width="100" height="100"/> 
+
+<img src="https://user-images.githubusercontent.com/50630878/190911781-f47bc382-dbbc-4087-b212-5df9d5c7cbd2.jpeg" alt="letitswift" width="100" height="100"/> 
+
 </p>
+
+
 
 <h3 align="left">⭐️ My GitHub Stats: </h3>
 <p align="left"> 
