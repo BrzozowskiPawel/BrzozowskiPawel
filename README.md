@@ -44,8 +44,8 @@ I can say that I am a team player who loves interacting with other dev or team m
 
 </p>
 
-<h3 align="left">👨‍💻 Contributed to:</h3>
-<p [Wire-iOS](https://github.com/wireapp/wire-ios) />
+👨‍💻 Contributed to
+<p [Wire-iOS](https://github.com/wireapp/wire-ios)
 
 https://github.com/wireapp/wire-ios
 
