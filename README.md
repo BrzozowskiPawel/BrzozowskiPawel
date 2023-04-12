@@ -44,7 +44,5 @@ I can say that I am a team player who loves interacting with other dev or team m
 
 </p>
 
-👨‍💻 Contributed to: [Wire-iOS](https://github.com/wireapp/wire-ios)
-
 🔗 Links: [Dowload my CV](https://github.com/BrzozowskiPawel/BrzozowskiPawel/blob/master/CV_Swift.pdf)
 
